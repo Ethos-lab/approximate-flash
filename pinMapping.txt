@@ -1,0 +1,7 @@
+Pin Mapping from Dev board to chip:
+
+Address Line:  D8|D15-13|A14-12|E3-0|C7-0
+Data Line: D7-0
+WE: B9
+OE: B10
+CE: B12
